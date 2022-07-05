@@ -1,5 +1,6 @@
 # auto-watermark
 Automated watermarking for images.
+Originally made to assist the UVic Indian Student Society with their image watermarking process.
 
 ## Installation:
 1. Install [Python 3](https://www.python.org/downloads/).
